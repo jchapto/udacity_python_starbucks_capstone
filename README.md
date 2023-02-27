@@ -4,7 +4,7 @@ The capstone project for Udacity's data scientist nanodegree program.
 
 ## Project Overview
 
-The object of this capstone project is to answer the following business challenges using the Starbucks dataset:
+The object of this capstone project is to answer the following business challenge using the Starbucks dataset:
 
 * Can we use data to build a predictive model to determine whether a customer will complete a promotional offer based on the offer characteristics and customer demographic information?
 
